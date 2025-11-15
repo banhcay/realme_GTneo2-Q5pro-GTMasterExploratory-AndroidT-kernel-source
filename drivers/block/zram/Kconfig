@@ -64,7 +64,7 @@ config OPLUS_ZRAM_OPT
 #endif /*OPLUS_FEATURE_ZRAM_OPT*/
 
 #ifdef OPLUS_FEATURE_ZRAM_WRITEBACK
-source "drivers/block/zram/zwb_handle/Kconfig"
+#source "drivers/block/zram/zwb_handle/Kconfig"
 #endif /* OPLUS_FEATURE_ZRAM_WRITEBACK */
 
 config HYBRIDSWAP
