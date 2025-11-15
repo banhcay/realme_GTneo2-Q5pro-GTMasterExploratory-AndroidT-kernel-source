@@ -1,0 +1,409 @@
+compiling kernel...
+make[1]: Entering directory '/home/hunt3r/kernel/out'
+GEN     ./Makefile
+
+
+
+configuration written to .config
+
+
+
+GEN     ./Makefile
+Using .config as base
+Merging ../arch/arm64/configs/vendor/oplus.config
+Value of CONFIG_AW8697_HAPTIC is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_AW8697_HAPTIC is not set
+New value: CONFIG_AW8697_HAPTIC=y
+
+Value of CONFIG_BLK_WBT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_BLK_WBT is not set
+New value: CONFIG_BLK_WBT=y
+
+Value of CONFIG_COLOR_CTRL is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_COLOR_CTRL is not set
+New value: CONFIG_COLOR_CTRL=y
+
+Value of CONFIG_COLOR_CTRL_V2 is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_COLOR_CTRL_V2 is not set
+New value: CONFIG_COLOR_CTRL_V2=y
+
+Value of CONFIG_CS_F61_NDT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_CS_F61_NDT is not set
+New value: CONFIG_CS_F61_NDT=y
+
+Value of CONFIG_DETECT_HUNG_TASK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_DETECT_HUNG_TASK is not set
+New value: CONFIG_DETECT_HUNG_TASK=y
+
+Value of CONFIG_DRM_MSM is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_DRM_MSM is not set
+New value: CONFIG_DRM_MSM=y
+
+Value of CONFIG_DYNAMIC_TUNNING_SWAPPINESS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_DYNAMIC_TUNNING_SWAPPINESS is not set
+New value: CONFIG_DYNAMIC_TUNNING_SWAPPINESS=y
+
+Value of CONFIG_EMMC_SDCARD_OPTIMIZE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_EMMC_SDCARD_OPTIMIZE is not set
+New value: CONFIG_EMMC_SDCARD_OPTIMIZE=y
+
+Value of CONFIG_EROFS_FS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_EROFS_FS is not set
+New value: CONFIG_EROFS_FS=y
+
+Value of CONFIG_EXFAT_FS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_EXFAT_FS is not set
+New value: CONFIG_EXFAT_FS=y
+
+Value of CONFIG_FRAME_WARN is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: CONFIG_FRAME_WARN=2048
+New value: CONFIG_FRAME_WARN=4096
+
+Value of CONFIG_HARDEN_BRANCH_PREDICTOR is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_HARDEN_BRANCH_PREDICTOR is not set
+New value: CONFIG_HARDEN_BRANCH_PREDICTOR=y
+
+Value of CONFIG_HID_BETOP_FF is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_HID_BETOP_FF is not set
+New value: CONFIG_HID_BETOP_FF=y
+
+Value of CONFIG_HL6111R is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: CONFIG_HL6111R=y
+New value: # CONFIG_HL6111R is not set
+
+Value of CONFIG_HYBRIDSWAP is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_HYBRIDSWAP is not set
+New value: CONFIG_HYBRIDSWAP=y
+
+Value of CONFIG_IFB is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_IFB is not set
+New value: CONFIG_IFB=y
+
+Value of CONFIG_IST_DOWN is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_IST_DOWN is not set
+New value: CONFIG_IST_DOWN=y
+
+Value of CONFIG_IST_UP is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_IST_UP is not set
+New value: CONFIG_IST_UP=y
+
+Value of CONFIG_KPROBES is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_KPROBES is not set
+New value: CONFIG_KPROBES=y
+
+Value of CONFIG_LRU_GEN is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_LRU_GEN is not set
+New value: CONFIG_LRU_GEN=y
+
+🅷🆄🅽🆃🅴🆁 🇮🇳, [9/24/2025 8:22 PM]
+Value of CONFIG_MXM_DOWN is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_MXM_DOWN is not set
+New value: CONFIG_MXM_DOWN=y
+
+Value of CONFIG_MXM_UP is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_MXM_UP is not set
+New value: CONFIG_MXM_UP=y
+
+Value of CONFIG_NLS_UTF8 is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_NLS_UTF8 is not set
+New value: CONFIG_NLS_UTF8=y
+
+Value of CONFIG_OEM_QMI is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OEM_QMI is not set
+New value: CONFIG_OEM_QMI=y
+
+Value of CONFIG_OPLUS_ARCH_FILE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_ARCH_FILE is not set
+New value: CONFIG_OPLUS_ARCH_FILE=y
+
+Value of CONFIG_OPLUS_CALL_MODE_SUPPORT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_CALL_MODE_SUPPORT is not set
+New value: CONFIG_OPLUS_CALL_MODE_SUPPORT=y
+
+Value of CONFIG_OPLUS_CHARGER_WIRELESS_PEN is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_CHARGER_WIRELESS_PEN is not set
+New value: CONFIG_OPLUS_CHARGER_WIRELESS_PEN=y
+
+Value of CONFIG_OPLUS_CHECK_CHARGERID_VOLT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_CHECK_CHARGERID_VOLT is not set
+New value: CONFIG_OPLUS_CHECK_CHARGERID_VOLT=y
+
+Value of CONFIG_OPLUS_CHIP_SOC_NODE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_CHIP_SOC_NODE is not set
+New value: CONFIG_OPLUS_CHIP_SOC_NODE=y
+
+Value of CONFIG_OPLUS_COMMON_SOFT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_COMMON_SOFT is not set
+New value: CONFIG_OPLUS_COMMON_SOFT=y
+
+Value of CONFIG_OPLUS_DEVICE_IFNO is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_DEVICE_IFNO is not set
+New value: CONFIG_OPLUS_DEVICE_IFNO=y
+
+Value of CONFIG_OPLUS_FEATURE_ACM is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_ACM is not set
+New value: CONFIG_OPLUS_FEATURE_ACM=y
+
+Value of CONFIG_OPLUS_FEATURE_BINDER_STATS_ENABLE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_BINDER_STATS_ENABLE is not set
+New value: CONFIG_OPLUS_FEATURE_BINDER_STATS_ENABLE=y
+
+Value of CONFIG_OPLUS_FEATURE_CMDLINE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_CMDLINE is not set
+New value: CONFIG_OPLUS_FEATURE_CMDLINE=y
+
+Value of CONFIG_OPLUS_FEATURE_DATA_EVAL is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_DATA_EVAL is not set
+New value: CONFIG_OPLUS_FEATURE_DATA_EVAL=y
+
+Value of CONFIG_OPLUS_FEATURE_DNS_HOOK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_DNS_HOOK is not set
+New value: CONFIG_OPLUS_FEATURE_DNS_HOOK=y
+
+Value of CONFIG_OPLUS_FEATURE_DUMP_DEVICE_INFO is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_DUMP_DEVICE_INFO is not set
+New value: CONFIG_OPLUS_FEATURE_DUMP_DEVICE_INFO=y
+
+Value of CONFIG_OPLUS_FEATURE_FDLEAK_CHECK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_FDLEAK_CHECK is not set
+New value: CONFIG_OPLUS_FEATURE_FDLEAK_CHECK=y
+
+Value of CONFIG_OPLUS_FEATURE_MDMFEATURE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_MDMFEATURE is not set
+New value: CONFIG_OPLUS_FEATURE_MDMFEATURE=y
+
+Value of CONFIG_OPLUS_FEATURE_MIDAS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_MIDAS is not set
+New value: CONFIG_OPLUS_FEATURE_MIDAS=y
+
+🅷🆄🅽🆃🅴🆁 🇮🇳, [9/24/2025 8:22 PM]
+Value of CONFIG_OPLUS_FEATURE_OPROJECT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_OPROJECT is not set
+New value: CONFIG_OPLUS_FEATURE_OPROJECT=y
+
+Value of CONFIG_OPLUS_FEATURE_PMIC_MONITOR is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_PMIC_MONITOR is not set
+New value: CONFIG_OPLUS_FEATURE_PMIC_MONITOR=y
+
+Value of CONFIG_OPLUS_FEATURE_PROJECTINFO is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_PROJECTINFO is not set
+New value: CONFIG_OPLUS_FEATURE_PROJECTINFO=y
+
+Value of CONFIG_OPLUS_FEATURE_QCOM_PMICWD is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_QCOM_PMICWD is not set
+New value: CONFIG_OPLUS_FEATURE_QCOM_PMICWD=y
+
+Value of CONFIG_OPLUS_FEATURE_RECORD_MDMRST is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_RECORD_MDMRST is not set
+New value: CONFIG_OPLUS_FEATURE_RECORD_MDMRST=y
+
+Value of CONFIG_OPLUS_FEATURE_SAUPWK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_SAUPWK is not set
+New value: CONFIG_OPLUS_FEATURE_SAUPWK=y
+
+Value of CONFIG_OPLUS_FEATURE_SHUTDOWN_DETECT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_SHUTDOWN_DETECT is not set
+New value: CONFIG_OPLUS_FEATURE_SHUTDOWN_DETECT=y
+
+Value of CONFIG_OPLUS_FEATURE_STATS_CALC is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_STATS_CALC is not set
+New value: CONFIG_OPLUS_FEATURE_STATS_CALC=y
+
+Value of CONFIG_OPLUS_FEATURE_THEIA is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_THEIA is not set
+New value: CONFIG_OPLUS_FEATURE_THEIA=y
+
+Value of CONFIG_OPLUS_FEATURE_WIFI_ROUTERBOOST is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_WIFI_ROUTERBOOST is not set
+New value: CONFIG_OPLUS_FEATURE_WIFI_ROUTERBOOST=m
+
+Value of CONFIG_OPLUS_FEATURE_WIFI_SLA is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FEATURE_WIFI_SLA is not set
+New value: CONFIG_OPLUS_FEATURE_WIFI_SLA=y
+
+Value of CONFIG_OPLUS_FINGERPRINT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FINGERPRINT is not set
+New value: CONFIG_OPLUS_FINGERPRINT=y
+
+Value of CONFIG_OPLUS_FINGERPRINT_GKI_DISABLE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FINGERPRINT_GKI_DISABLE is not set
+New value: CONFIG_OPLUS_FINGERPRINT_GKI_DISABLE=y
+
+Value of CONFIG_OPLUS_FW_UPDATE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_FW_UPDATE is not set
+New value: CONFIG_OPLUS_FW_UPDATE=y
+
+Value of CONFIG_OPLUS_GPIO is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_GPIO is not set
+New value: CONFIG_OPLUS_GPIO=y
+
+Value of CONFIG_OPLUS_HANS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_HANS is not set
+New value: CONFIG_OPLUS_HANS=y
+
+Value of CONFIG_OPLUS_ION_BOOSTPOOL is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_ION_BOOSTPOOL is not set
+New value: CONFIG_OPLUS_ION_BOOSTPOOL=y
+
+Value of CONFIG_OPLUS_MULTI_KSWAPD is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_MULTI_KSWAPD is not set
+New value: CONFIG_OPLUS_MULTI_KSWAPD=y
+
+Value of CONFIG_OPLUS_RF_CABLE_MONITOR is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_RF_CABLE_MONITOR is not set
+New value: CONFIG_OPLUS_RF_CABLE_MONITOR=y
+
+🅷🆄🅽🆃🅴🆁 🇮🇳, [9/24/2025 8:22 PM]
+Value of CONFIG_OPLUS_SECURE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SECURE is not set
+New value: CONFIG_OPLUS_SECURE=y
+
+Value of CONFIG_OPLUS_SECURE_COMMON is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SECURE_COMMON is not set
+New value: CONFIG_OPLUS_SECURE_COMMON=y
+
+Value of CONFIG_OPLUS_SECURE_QCOM is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SECURE_QCOM is not set
+New value: CONFIG_OPLUS_SECURE_QCOM=y
+
+Value of CONFIG_OPLUS_SENSOR_FB_QC is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SENSOR_FB_QC is not set
+New value: CONFIG_OPLUS_SENSOR_FB_QC=y
+
+Value of CONFIG_OPLUS_SHIP_MODE_SUPPORT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SHIP_MODE_SUPPORT is not set
+New value: CONFIG_OPLUS_SHIP_MODE_SUPPORT=y
+
+Value of CONFIG_OPLUS_SHORT_C_BATT_CHECK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SHORT_C_BATT_CHECK is not set
+New value: CONFIG_OPLUS_SHORT_C_BATT_CHECK=y
+
+Value of CONFIG_OPLUS_SHORT_HW_CHECK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SHORT_HW_CHECK is not set
+New value: CONFIG_OPLUS_SHORT_HW_CHECK=y
+
+Value of CONFIG_OPLUS_SHORT_IC_CHECK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SHORT_IC_CHECK is not set
+New value: CONFIG_OPLUS_SHORT_IC_CHECK=y
+
+Value of CONFIG_OPLUS_SHORT_USERSPACE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SHORT_USERSPACE is not set
+New value: CONFIG_OPLUS_SHORT_USERSPACE=y
+
+Value of CONFIG_OPLUS_SM8250_CHARGER is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SM8250_CHARGER is not set
+New value: CONFIG_OPLUS_SM8250_CHARGER=y
+
+Value of CONFIG_OPLUS_SMART_CHARGER_SUPPORT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_SMART_CHARGER_SUPPORT is not set
+New value: CONFIG_OPLUS_SMART_CHARGER_SUPPORT=y
+
+Value of CONFIG_OPLUS_TP_APK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_TP_APK is not set
+New value: CONFIG_OPLUS_TP_APK=y
+
+Value of CONFIG_OPLUS_TRIKEY_HALL is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_TRIKEY_HALL is not set
+New value: CONFIG_OPLUS_TRIKEY_HALL=y
+
+Value of CONFIG_OPLUS_TRIKEY_MAIN is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_TRIKEY_MAIN is not set
+New value: CONFIG_OPLUS_TRIKEY_MAIN=y
+
+Value of CONFIG_OPLUS_WAKELOCK_PROFILER is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_OPLUS_WAKELOCK_PROFILER is not set
+New value: CONFIG_OPLUS_WAKELOCK_PROFILER=y
+
+Value of CONFIG_PGTABLE_MAPPING is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_PGTABLE_MAPPING is not set
+New value: CONFIG_PGTABLE_MAPPING=y
+
+Value of CONFIG_PSTORE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_PSTORE is not set
+New value: CONFIG_PSTORE=y
+
+Value of CONFIG_QCA_CLD_WLAN is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_QCA_CLD_WLAN is not set
+New value: CONFIG_QCA_CLD_WLAN=y
+
+Value of CONFIG_QPNP_QNOVO5 is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: CONFIG_QPNP_QNOVO5=y
+New value: # CONFIG_QPNP_QNOVO5 is not set
+
+Value of CONFIG_REGULATOR_PM8008 is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_REGULATOR_PM8008 is not set
+New value: CONFIG_REGULATOR_PM8008=y
+
+Value of CONFIG_RMNET_PERF is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: CONFIG_RMNET_PERF=m
+New value: CONFIG_RMNET_PERF=y
+
+🅷🆄🅽🆃🅴🆁 🇮🇳, [9/24/2025 8:22 PM]
+Value of CONFIG_RMNET_SHS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: CONFIG_RMNET_SHS=m
+New value: CONFIG_RMNET_SHS=y
+
+Value of CONFIG_SCHED_WALT_COBUCK is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_SCHED_WALT_COBUCK is not set
+New value: CONFIG_SCHED_WALT_COBUCK=y
+
+Value of CONFIG_SENSORS_SIMULATED_HALL is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_SENSORS_SIMULATED_HALL is not set
+New value: CONFIG_SENSORS_SIMULATED_HALL=y
+
+Value of CONFIG_SIM_DETECT is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_SIM_DETECT is not set
+New value: CONFIG_SIM_DETECT=y
+
+Value of CONFIG_SLUB_DEBUG is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_SLUB_DEBUG is not set
+New value: CONFIG_SLUB_DEBUG=y
+
+Value of CONFIG_SMB1355_SLAVE_CHARGER is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: CONFIG_SMB1355_SLAVE_CHARGER=y
+New value: # CONFIG_SMB1355_SLAVE_CHARGER is not set
+
+Value of CONFIG_SMB1390_CHARGE_PUMP_PSY is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: CONFIG_SMB1390_CHARGE_PUMP_PSY=y
+New value: # CONFIG_SMB1390_CHARGE_PUMP_PSY is not set
+
+Value of CONFIG_SSC_INTERACTIVE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_SSC_INTERACTIVE is not set
+New value: CONFIG_SSC_INTERACTIVE=y
+
+Value of CONFIG_TOUCHIRQ_UPDATE_QOS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_TOUCHIRQ_UPDATE_QOS is not set
+New value: CONFIG_TOUCHIRQ_UPDATE_QOS=y
+
+Value of CONFIG_TOUCHPANEL_NEW_SET_IRQ_WAKE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_TOUCHPANEL_NEW_SET_IRQ_WAKE is not set
+New value: CONFIG_TOUCHPANEL_NEW_SET_IRQ_WAKE=y
+
+Value of CONFIG_TOUCHPANEL_OPLUS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_TOUCHPANEL_OPLUS is not set
+New value: CONFIG_TOUCHPANEL_OPLUS=y
+
+Value of CONFIG_TOUCHPANEL_SAMSUNG is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_TOUCHPANEL_SAMSUNG is not set
+New value: CONFIG_TOUCHPANEL_SAMSUNG=y
+
+Value of CONFIG_TOUCHPANEL_SYNAPTICS is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_TOUCHPANEL_SYNAPTICS is not set
+New value: CONFIG_TOUCHPANEL_SYNAPTICS=y
+
+Value of CONFIG_UFSFEATURE is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_UFSFEATURE is not set
+New value: CONFIG_UFSFEATURE=y
+
+Value of CONFIG_UNMAP_KERNEL_AT_EL0 is redefined by fragment ../arch/arm64/configs/vendor/oplus.config:
+Previous value: # CONFIG_UNMAP_KERNEL_AT_EL0 is not set
+New value: CONFIG_UNMAP_KERNEL_AT_EL0=y
+
+
+
+merged configuration written to .config (needs make)
+
+
+
+GEN     ./Makefile
+scripts/kconfig/conf  --oldconfig Kconfig
