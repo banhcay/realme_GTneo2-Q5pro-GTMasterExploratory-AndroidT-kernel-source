@@ -970,7 +970,7 @@ config OOM_REAPER_RECLAIM_MEMORY
 	  enable oom_reaper to reclaim memory
 
 #ifdef OPLUS_FEATURE_MEMLEAK_DETECT
-source "mm/malloc_track/Kconfig"
+#source "mm/malloc_track/Kconfig"
 source "mm/task_mem/Kconfig"
 #endif
 config FORCE_ALLOC_FROM_DMA_ZONE
