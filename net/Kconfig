@@ -482,4 +482,4 @@ source "net/oplus_connectivity_routerboost/Kconfig"
 
 source "net/oplus_connectivity_sla/Kconfig"
 
-source "net/oplus_modules/Kconfig"
+#source "net/oplus_modules/Kconfig"
