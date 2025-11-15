@@ -907,7 +907,7 @@ config PROCESS_RECLAIM
 #endif /*OPLUS_FEATURE_MEMORY_ISOLATE*/
 
 #ifdef OPLUS_FEATURE_MULTI_KSWAPD
-source "mm/multi_kswapd/Kconfig"
+#source "mm/multi_kswapd/Kconfig"
 #endif /*OPLUS_FEATURE_MULTI_KSWAPD*/
 
 # if defined(OPLUS_FEATURE_PROCESS_RECLAIM)
