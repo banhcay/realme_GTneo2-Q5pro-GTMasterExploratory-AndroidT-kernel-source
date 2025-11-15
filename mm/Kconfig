@@ -903,7 +903,7 @@ config PROCESS_RECLAIM
 #endif /* OPLUS_FEATURE_HEALTHINFO */
 
 #ifdef OPLUS_FEATURE_MEMORY_ISOLATE
-source "mm/memory_isolate/Kconfig"
+#source "mm/memory_isolate/Kconfig"
 #endif /*OPLUS_FEATURE_MEMORY_ISOLATE*/
 
 #ifdef OPLUS_FEATURE_MULTI_KSWAPD
